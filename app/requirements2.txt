@@ -1,0 +1,4 @@
+fastapi==0.104.1
+geoserver_rest==2.4.8
+lxml==4.9.3
+pydantic==2.4.2

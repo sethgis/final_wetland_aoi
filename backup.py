@@ -140,7 +140,7 @@ saved_file_path = os.path.abspath(base_sld)
 
 path = str(saved_file_path)
 
-geo = Geoserver('http://66.42.65.87:8080/geoserver', username='wemast', password='wemast3582')
+geo = Geoserver('', username='', password='')
 
 geo.upload_style(path=(path))
 
